@@ -1,0 +1,31 @@
+body{
+    margin:10px;
+    background-color: lightslategray;
+}
+
+#basket-table{
+    align:center;
+}
+
+
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ddd;
+    color: white;
+}
+
+#heading{
+    color:white;
+    padding: 10px;
+}
+p{
+    color: white;
+    font-size: 26px;
+}
+
+#item-pic{
+    height: 70px;
+    width:70px;
+}

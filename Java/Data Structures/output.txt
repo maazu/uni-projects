@@ -1,0 +1,13 @@
+Queue contents: < "hello": 1, "hi": 5 >
+Adding " ho" with priority 3
+Queue Contents: < "hello": 1, "hi": 5, "ho": 3 >
+Calling frontpri: 1 returned
+Calling front: "hello" returned
+Calling removefront
+Queue Contents After Removal : < "hi": 5, "ho": 3 >
+Calling isempty: false returned
+
+Ex1.QueueException: Queue is empty
+Ex1.QueueException: Queue is empty
+Ex1.QueueException: Queue is empty
+Ex1.QueueException: Invalid Number Range 
