@@ -1,0 +1,12 @@
+Word1               | Word2               | Similarity
+--------------------------------------------------- 
+gone                | get                 | 1.0       
+gone                | went                | 1.0       
+gone                | broke               | 1.0       
+gone                | got                 | 1.0       
+gone                | break               | 1.0       
+gone                | work                | 1.0       
+gone                | go                  | 1.0       
+gone                | move                | 1.0       
+gone                | run                 | 1.0       
+gone                | moved               | 1.0       

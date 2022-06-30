@@ -1,0 +1,11 @@
+F:\FinalSerce\Server\Server\obj\Debug\netcoreapp3.0\Server.csprojAssemblyReference.cache
+F:\FinalSerce\Server\Server\obj\Debug\netcoreapp3.0\Server.AssemblyInfoInputs.cache
+F:\FinalSerce\Server\Server\obj\Debug\netcoreapp3.0\Server.AssemblyInfo.cs
+F:\FinalSerce\Server\Server\bin\Debug\netcoreapp3.0\Server.exe
+F:\FinalSerce\Server\Server\bin\Debug\netcoreapp3.0\Server.deps.json
+F:\FinalSerce\Server\Server\bin\Debug\netcoreapp3.0\Server.runtimeconfig.json
+F:\FinalSerce\Server\Server\bin\Debug\netcoreapp3.0\Server.runtimeconfig.dev.json
+F:\FinalSerce\Server\Server\bin\Debug\netcoreapp3.0\Server.dll
+F:\FinalSerce\Server\Server\bin\Debug\netcoreapp3.0\Server.pdb
+F:\FinalSerce\Server\Server\obj\Debug\netcoreapp3.0\Server.dll
+F:\FinalSerce\Server\Server\obj\Debug\netcoreapp3.0\Server.pdb

@@ -1,0 +1,264 @@
+
+.navbar-inverse {
+    background-color:  #e3e8ef;
+    border-color:#e3e8ef ;
+    padding-bottom: 20px;
+
+}
+
+.navbar-inverse .navbar-brand {
+    color: black;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    margin-top: 15px;
+}
+
+
+
+
+.nav.navbar-nav.navbar-right li a {
+    color:#353638;
+    padding: 15px;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 15px;
+}
+
+
+
+
+.nav.navbar-nav.navbar-right li a:hover {
+   
+    text-decoration: underline;
+}
+
+.Home {
+
+    background-color: #e3e8ef;
+}
+
+.jumbotron {
+
+	background-color: #e3e8ef;;
+	padding-bottom: 0px;
+	
+	
+	margin-top: -50px;
+	
+    }
+.jumbotron .mainpage {
+
+	padding-bottom: 50px;
+}
+.button1 {
+    border-radius: 5px;
+	border: solid;
+	border-width: thin;
+	color: white;
+    background-color:#353638;
+	margin-left: 54px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 20px;
+	padding-right: 20px;
+	text-decoration: none;
+	
+}
+.Aboutsec {
+
+	background-color: white;
+	padding-bottom: 100px;
+}
+.Aboutsec .col-md-8{
+
+    padding-top: 50px;
+	margin-left: -170px;
+	}
+
+.Aboutsec .col-md-4{
+padding-top: 50px;
+}
+.Gallery {
+	background-color:#e2e2e2;
+}
+.Gallery .col-md-4 img{
+   padding-top: 30px;
+   margin:1.50%;
+	width: 100%;
+	
+}
+
+.footer {
+  font-family: 'Montserrat', sans-serif;
+	background-color:white ;
+}
+
+
+
+.active a{
+	color: green;
+}
+
+
+
+.Contact {
+    background-color: #47494c;
+    padding-bottom: 70px;
+}
+.Contact input {
+    background: #47494c;
+    border: #47494c;
+    border:none;
+   border-bottom: 1px solid white;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 200px;
+    margin:10px;
+}
+
+.Contact textarea::placeholder {
+  color: white;
+
+}
+
+.Contact input::placeholder {
+  color: white;
+}
+
+
+.Contact textarea{
+    background:#47494c;
+    border: 0.1px solid #fff;
+    height: 200px;
+    width: 450px;
+    display: flex;
+    margin: 10px;
+}
+.Contact button {
+    width: 170px;
+    margin:10px;
+    margin-left: 150px;
+   }
+
+.Contact #form {
+  padding-top: 40px;
+}
+
+
+.Contact .col-md-8{
+padding-left:320px;
+padding-bottom: 30px;
+}
+
+.Contact .col-md-8 h2{
+padding-bottom: 30px;
+color: #fcfcfc;
+font-family: 'Montserrat', sans-serif;
+text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*=========================
+  Icons
+ ================= */
+
+/* footer social icons */
+ul.social-network {
+    list-style: none;
+    display: inline;
+    margin-left:375px !important;
+    padding: 0;
+}
+ul.social-network li {
+    display: inline;
+    margin: 0 5px;
+}
+
+
+/* footer social icons */
+.social-network a.icoRss:hover {
+    background-color: #F56505;
+}
+.social-network a.icoFacebook:hover {
+    background-color:#3B5998;
+}
+.social-network a.icoTwitter:hover {
+    background-color:#33ccff;
+}
+.social-network a.icoGoogle:hover {
+    background-color:#BD3518;
+}
+.social-network a.icoVimeo:hover {
+    background-color:#0590B8;
+}
+.social-network a.icoLinkedin:hover {
+    background-color:#007bb7;
+}
+.social-network a.icoRss:hover i, .social-network a.icoFacebook:hover i, .social-network a.icoTwitter:hover i,
+.social-network a.icoGoogle:hover i, .social-network a.icoVimeo:hover i, .social-network a.icoLinkedin:hover i {
+    color:#fff;
+}
+a.socialIcon:hover, .socialHoverClass {
+    color:#44BCDD;
+}
+
+.social-circle li a {
+    display:inline-block;
+    position:relative;
+    margin:0 auto 0 auto;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    border-radius:50%;
+    text-align:center;
+    width: 50px;
+    height: 50px;
+    font-size:20px;
+}
+.social-circle li i {
+    margin:0;
+    line-height:50px;
+    text-align: center;
+}
+
+.social-circle li a:hover i, .triggeredHover {
+    -moz-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -ms--transform: rotate(360deg);
+    transform: rotate(360deg);
+    -webkit-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    -o-transition: all 0.2s;
+    -ms-transition: all 0.2s;
+    transition: all 0.2s;
+}
+.social-circle i {
+    color: #47494c;
+    -webkit-transition: all 0.8s;
+    -moz-transition: all 0.8s;
+    -o-transition: all 0.8s;
+    -ms-transition: all 0.8s;
+    transition: all 0.8s;
+}
+
+.social-circle a {
+ background-color: #fff;   
+}
